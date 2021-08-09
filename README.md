@@ -4,7 +4,7 @@ our expected output is the subset of the data provided in clicks.json file.
 
 How to run -> 
 1. change the path of the source file at line 32. set the path as it is placed in your system.
-2. change the path of the destination file at line 33. if that file exists, it will update the fileName, otherwise will create a new run. 
+2. change the path of the destination file at line 33. if that file exists, it will update the fileName, otherwise will create a new file. 
 
 3.Run the GartnerAssignmentApplication file. 
 
